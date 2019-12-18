@@ -3,6 +3,7 @@ layout: page
 title: Course Materials
 permalink: /course-materials/
 ---
-
-* [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
-* [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf)
+* [what is algorithm?](https://slate.com/technology/2016/02/whats-the-deal-with-algorithms.html)
+* [find another syllabus](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/syllabus/)
+* [np complete](https://www.geeksforgeeks.org/np-completeness-set-1/)
+* [np complete](https://stackoverflow.com/questions/210829/what-is-an-np-complete-in-computer-science)
