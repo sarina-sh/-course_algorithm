@@ -3,7 +3,15 @@ layout: page
 title: Course Materials
 permalink: /course-materials/
 ---
-* [what is algorithm?](https://slate.com/technology/2016/02/whats-the-deal-with-algorithms.html)
-* [find another syllabus](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/syllabus/)
-* [what is NP-complete?](https://www.geeksforgeeks.org/np-completeness-set-1/)
-* [what is NP-complete?](https://stackoverflow.com/questions/210829/what-is-an-np-complete-in-computer-science)
+
+<div style="width:100%; float: left">
+    <div class="resource-pic-gallary">
+        <h2>Course refrences</h2>
+        {% for resource in site.resources reversed %}
+        <div class="resource--image-cover-container">
+            <img src="{{ resource.thumbnail | prepend: site.baseurl }}" class="resource--image-cover">
+            <p><a href="{{resource.address}}">{{resource.name}}</a></p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
