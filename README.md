@@ -76,6 +76,14 @@ date: 20xx-xx-xxTx:xx:xx+4:30
 <put a short announcement here, you can use all markdown features>
 ```
 
+## course-materials
+Use `_course-materials/` directory to create new course-materials
+```markdown
+---
+type: course-materials
+date: 20xx-xx-xxTx:xx:xx+4:30
+title: <course-materials title (e.x. course-materials #1>
+
 ## Assignments 
 Use `_assignments/` directory to create new Assignment
 ```markdown

@@ -43,6 +43,8 @@ collections:
         output: true
     announcements:
         output: false
+    course-materials:
+        output: true
 
 sass:
     style: :compressed        
