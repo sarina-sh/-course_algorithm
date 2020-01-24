@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2019-02-23T8:00:00+4:30
-title: session 1 and 2
-slides: /static_files/presentations/DA_session1and2.pdf
+title: session 3
+slides: /static_files/presentations/DA_session3.pdf
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
 #tldr: "Short text to discribe what this lecture is about."
