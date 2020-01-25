@@ -1,6 +1,6 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: algorithm
+course_name: Designing Algorithms
 course_description: This course is designed for studying different algorithmes of problem solving such as dynamic programming, greedy, and graph algorithmes. 
 course_semester: "Fall 2019"
 description: |
