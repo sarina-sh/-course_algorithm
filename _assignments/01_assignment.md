@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2019-02-16T4:00:00+4:30
-title: assignment for Elementary Graph algorithms
+title: assignment1 for Elementary Graph algorithms
 pdf: /static_files/assignments/سوال.pdf
 #attachment: /static_files/assignments/DS_A1.zip
 #solutions: /static_files/assignments
