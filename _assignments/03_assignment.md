@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2019-02-16T4:00:00+4:30
-title: assignment4 for String Matching
+title: assignment 4_String Matching
 pdf: /static_files/assignments/تمرین_سری_چهارم_درس_طراحی_الگوریتم.pdf
 #attachment: /static_files/assignments/DS_A1.zip
 #solutions: /static_files/assignments
