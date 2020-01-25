@@ -15,20 +15,20 @@ Students who pass this lesson successfully will be able
 5.Have an understanding of common and important algorithms and compare their different solutions in terms of complexity and know where to apply each algorithm.
 6.Use existing library functions for common algorithms.
 <h1>List of Mobs :</h1>
-<br>1.Different Types of Problem Solving Methods</br>
-<br>2.Dynamic programming</br>
-<br>3.Backpack Issues</br>
-<br>4.Greedy methods</br>
-<br>5.Scheduling Issues</br>
-<br>6.Shatter analysis</br>
-<br>7.Advanced Data Buildings:</br>
-<br>a.Trees of B</br>
-<br>b.Binomial stacks</br>
-<br>c.Fibonacci stacks</br>
-<br>8.Separate sets</br>
-<br>9.Shortest path between all graph nodes</br>
-<br>10.Most current</br>
-<br>11.Matching strings</br>
+<br>1.Different Types of Problem Solving Methods
+<br>2.Dynamic programming
+<br>3.Backpack Issues
+<br>4.Greedy methods
+<br>5.Scheduling Issues
+<br>6.Shatter analysis
+<br>7.Advanced Data Buildings:
+<br>a.Trees of B
+<br>b.Binomial stacks
+<br>c.Fibonacci stacks
+<br>8.Separate sets
+<br>9.Shortest path between all graph nodes
+<br>10.Most current
+<br>11.Matching strings
 
 
 
