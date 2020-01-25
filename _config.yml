@@ -4,7 +4,7 @@ course_name: Designing Algorithms
 course_description: This course is designed for studying different algorithmes of problem solving such as dynamic programming, greedy, and graph algorithmes. 
 course_semester: "Fall 2019"
 description: |
-Instructor: "Dr.Marzieh Malekimajd"
+    Instructor: Dr.Marzieh Malekimajd
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_algorithm" # the subpath of your site, e.g. /blog/
@@ -14,9 +14,9 @@ githubdir:
 
 # Author/user information
 email: malekimajd@iust.ac.ir
-twitter_username: https://quera.ir/course/3926/
+#twitter_username: 
 #github_username:  broken_github
-authorurl: " "
+authorurl: "https://quera.ir/course/3926/"
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
