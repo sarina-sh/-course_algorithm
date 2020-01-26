@@ -17,20 +17,17 @@ The purpose of this course is to teach the methods of analysis and design of alg
 <br>5.Have an understanding of common and important algorithms and compare their different solutions in terms of complexity and know where to apply each algorithm.
 <br>6.Use existing library functions for common algorithms.
 <h1>List of Mobs :</h1>
-1.Different Types of Problem Solving Methods
+1.Recursion  and Backtracking
 <br>2.Dynamic programming
-<br>3.Backpack Issues
-<br>4.Greedy methods
-<br>5.Scheduling Issues
-<br>6.Shatter analysis
-<br>7.Advanced Data Buildings:
-<br>a.Trees of B
-<br>b.Binomial stacks
-<br>c.Fibonacci stacks
-<br>8.Separate sets
-<br>9.Shortest path between all graph nodes
-<br>10.Most current
-<br>11.Matching strings
+<br>3.Greedy Algorithms
+<br>4.Amortized Analysis
+<br>5.Elementary Graph algorithms
+<br>6.Minimum Spanning Trees
+<br>7.Single‐Source Shortest paths
+<br>8.All‐Pairs Shortest Paths
+<br>9.Maximum Flow
+<br>10.String Matching
+<br>11.Np-Completeness
 
 
 
