@@ -10,7 +10,6 @@ permalink: /course-materials/
         <div class="resource--image-cover-container">
             <img src="{{ resource.thumbnail | prepend: site.baseurl }}" class="resource--image-cover">
             <p><a href="{{resource.address}}">{{resource.title}}</a></p>
-            <br><br><br><br><br><br><br><br><br><br><br><br>
         </div>
         {% endfor %}
     </div>
