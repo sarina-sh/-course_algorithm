@@ -16,7 +16,7 @@ The purpose of this course is to teach the methods of analysis and design of alg
 <br>4.Compute the time complexity of an algorithm.
 <br>5.Have an understanding of common and important algorithms and compare their different solutions in terms of complexity and know where to apply each algorithm.
 <br>6.Use existing library functions for common algorithms.
-<h1>List of Topics:</h1>
+<h1>List of Topics :</h1>
 1.Recursion  and Backtracking
 <br>2.Dynamic programming
 <br>3.Greedy Algorithms
