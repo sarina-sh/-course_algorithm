@@ -30,7 +30,7 @@ The purpose of this course is to teach the methods of analysis and design of alg
 <br>10.Most current
 <br>11.Matching strings
 
-please find the syllabus [here](/static files/syllabus/DA schedule.xlsx).
+please find the syllabus [here](/static_files/syllabus/DA_schedule.xlsx).
 
 
 
